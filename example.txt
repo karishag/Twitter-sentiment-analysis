@@ -1,0 +1,10 @@
+! 0.5
+Alas 0.44444
+Brilliant 0.47222
+Brilliant! 0.93056
+C'mon 0.47222
+incredible 0.76389
+Something 0.5
+Run 0.51389
+Movie 0.5
+The 
