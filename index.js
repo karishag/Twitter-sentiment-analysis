@@ -1,9 +1,9 @@
 var twit = require('twit');
 var T = new twit({
-  consumer_key:         'i0JLyvgRxcrTdZ4O52Ml4flLd',
-  consumer_secret:      'El8Uanv8uqW2aphAoRXvCpReSX2wKiPGTA6QC4ciDXXHAjElWA',
-  access_token:         '756843964976730112-3lmplQU5ppAmrfSegnD9cBrv8mHmfrd',
-  access_token_secret:  'eW4HAP0v2jCDvoSa6qTe0hBkNAigXSUVjn2EZZJoUVjLq'
+  consumer_key:         '-----KEY-----',
+  consumer_secret:      '----Secret----',
+  access_token:         '-----Token-----',
+  access_token_secret:  '----token-secret----'
 });
 var i = 0;
 var c = 0;
